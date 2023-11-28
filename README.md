@@ -18,6 +18,8 @@
 ![Screenshot (267)](https://github.com/Thoriq150/pt8_dataphp/assets/115950790/d4ca1218-c140-472f-a6bb-957df4aa26fc)
 ![Screenshot (268)](https://github.com/Thoriq150/pt8_dataphp/assets/115950790/d00a55bd-e0e7-4d61-93b5-f25149da313c)
 ![Screenshot (266)](https://github.com/Thoriq150/pt8_dataphp/assets/115950790/174af1b2-da4e-434f-a522-679871cafcaf)
+![Screenshot (276)](https://github.com/Thoriq150/pt8_dataphp/assets/115950790/0564a6e6-0249-4fbd-84ab-9d4404cfed1b)
+
 ## 7.Buat file baru dengan nama ubah.php
 ![Screenshot (270)](https://github.com/Thoriq150/pt8_dataphp/assets/115950790/35b42844-2558-43cb-a7c8-6fe13f7d77bd)
 ![Screenshot (271)](https://github.com/Thoriq150/pt8_dataphp/assets/115950790/81e9badf-da34-4472-993b-833b9aa24d35)
